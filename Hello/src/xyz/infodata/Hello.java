@@ -1,6 +1,6 @@
-package br.com;
+package xyz.infodata;
 
-public class Principal {
+public class Hello {
 
     public static void main(String[] args) {
         String str = "Nícolas";
